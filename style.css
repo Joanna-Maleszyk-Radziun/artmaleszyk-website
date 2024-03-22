@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    background: #938e8e;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section_image {
+    max-width: 100%;
+    display: block;}
